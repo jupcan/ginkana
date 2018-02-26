@@ -3,7 +3,6 @@
 '''
 /// Ginkana - Computer Networks II \\\
 /// 	Juan Perea Campos 2A		\\\
-///			 71229899A				 \\\
 '''
 
 from socket import *
